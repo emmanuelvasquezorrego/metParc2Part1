@@ -401,6 +401,10 @@ a {
         width: 100%;
     }
 
+    .nosotros-txt span{ 
+        color: #303030;
+    }
+
     .nosotros-txt h2 {
         font-size: 40px;
         line-height: 50px;
